@@ -1,0 +1,97 @@
+.header{background: #212121;}
+.header .logo{}
+.header .logo a{}
+.header .logo a img{max-width: 55%;}
+.header .menu{margin:5px 0px 0px 0px;}
+.header .menu nav{}
+.header .menu nav a{color: white;
+    text-decoration: none;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 15px 15px;}
+.header .menu nav a#active{color: #ff6c00;}
+.header .menu nav a:hover{color: #ff6c00;}
+.header .share{margin:5px 0px 0px 0px;}
+.header .share a{color: #fff;
+    font-size: 20px;
+    padding: 10px 5px;
+    margin: 4px 0px 0px 0px;
+    display: inline-block;}
+.header .share a i{}
+.benefit{}
+.benefit .title{margin: 2% auto;}
+.benefit .title h2{text-align: center; margin: 2% auto;}
+.benefit .item{    padding: 1% 3%;}
+.benefit .item p{text-align: center;}
+.benefit .item p i{font-size: 25px;
+    border: 1px solid ##f37c31;
+    width: 60px;
+    height: 60px;
+    color: #fff;
+    line-height: 58px;
+    background: #f37c31;
+    border-radius: 50%;
+}
+.benefit .item p#active i{ background: #282727;}
+.benefit .item h3{TEXT-ALIGN: CENTER;}
+.benefit .item h3 a{text-decoration: none;
+    color: #212121;
+    font-size: 20px;}
+.benefit .item h4{    font-size: 15px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: justify;}
+.benefit .item p a{color: #212121!important;
+}
+.advice{}
+.advice .title{margin: 2% auto;}
+.advice .title h2{text-align: center;margin:2% auto;}
+.advice .title h6{text-align: center;
+    margin: 1% auto;
+    line-height: 25px;
+    font-weight: normal;}
+.advice .item{    padding: 1% 3%;}
+.advice .item p{text-align: center;}
+.advice .item p img {max-width: 100;} 
+.advice .item h3{TEXT-ALIGN: CENTER;}
+.advice .item h3 a{text-decoration: none;
+    color: #f37c31;
+    font-size: 20px;}
+.advice .item h4{    font-size: 15px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: justify;}
+.advice .item p a{
+}
+.advice .item p a img{max-width: 100%;
+}
+.advice .item h3{color: rgb(228, 148, 0);}
+.solution{}
+.solution .item{}
+.solution .item.left{background: #f37c31;
+    padding: 2% 8%;}
+.solution .item.right{
+    background: #696969;
+    padding: 2% 8%;
+}
+.solution .item h3{color: #fff;}
+.solution .item p{}
+.solution .item ul{color: #fff;
+    font-size: 13px;
+    line-height: 25px;
+    font-weight: bold;}
+.solution .item ul li{}
+.solution .item p a{
+border: 1px solid #fff;
+color:#fff
+}
+.contact{padding: 5% 8%;
+    background: url(../img/background.jfif);
+    background-size: 100%;
+    background-repeat: no-repeat;}
+.contact form{}
+.contact form label{color:#fff}
+.contact form input{background: #ffffff5e;}
+.contact form textarea{background: #ffffff5e;}
